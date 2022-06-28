@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ulftar;
-- 👀 I’m interested in GameDev;
-- 🌱 I’m currently learning C#, Unity;
-- 💞️ I’m looking to collaborate on GameDev opensource;
+- 👀 I’m interested in Python;
+- 🌱 I’m currently learning Python, Django;
 - 📫 How to reach me tg @ulftar;
 
 <!---
